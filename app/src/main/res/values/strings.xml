@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RentPro</string>
+    <string name="registration_title">Create New Account</string>
+    <string name="search_placeholder">Search...</string>
+    <string name="highlights_title">Highlights</string>
+    <string name="highlight_description">A real estate map visually displays properties and their locations, enabling users to explore listings, assess proximity to amenities, and make informed decisions. It enhances the search experience and provides spatial context for navigating the real estate market.</string>
+    <string name="highlight_title_1">Efficient Property Search</string>
+    <string name="highlight_description_1">Our system offers a powerful search feature that allows users to easily find properties based on their specific criteria, such as location, price range, and property type. With advanced filtering options, users can quickly narrow down their search and find the perfect property.</string>
+    <string name="highlight_title_2">Interactive Property Visualization</string>
+    <string name="highlight_description_2">Our system provides an immersive and interactive visualization of properties, allowing users to explore properties in detail through high-quality images, 360-degree virtual tours, and floor plans. This feature helps users get a comprehensive understanding of the property before making any decisions.</string>
+    <string name="highlight_title_3">Seamless Communication</string>
+    <string name="highlight_description_3">Our system streamlines communication between property owners, agents, and potential buyers or renters. It offers integrated messaging and notification features, enabling smooth and efficient communication throughout the entire real estate process, from inquiries and scheduling viewings to negotiations and finalizing transactions.</string>
+</resources>

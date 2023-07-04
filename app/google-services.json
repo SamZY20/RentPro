@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19124833383",
+    "project_id": "rentpro-e0492",
+    "storage_bucket": "rentpro-e0492.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19124833383:android:80ca06f90b212b9e9318c2",
+        "android_client_info": {
+          "package_name": "com.example.rentpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19124833383-dn9lrvh72rmc3l3qddg9j7vpuokrhgsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA12CtOCHQYR8IhjcUh5Cji85J9xyyJVII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19124833383-dn9lrvh72rmc3l3qddg9j7vpuokrhgsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
